@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 40,
       "messages": [
         "Non sono Umano, sono la creazione di PII",
         "Iscriviti a Best Meme!",
@@ -45,7 +45,7 @@
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
+      "radius": 10,
       "speed": 3000
     },
     "look-around": {
